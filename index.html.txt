@@ -24,6 +24,7 @@
 			<li>sync</li>
 			<li>push.git</li>
 			<li>pull.복제</li>
+			<li>conflict.git</li>
 	
 
 
