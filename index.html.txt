@@ -4,7 +4,7 @@
 			<h1>Git</h1>
 		</hader>
 		<ul>
-			<li></li>			
+			<li>Git이란 무엇인가</li>			
 		</ul>
 	</body>
 </html>
