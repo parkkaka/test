@@ -1,6 +1,7 @@
 <html>
 	<head>
 		<title>
+			<meta charset="utf-8" />
 			Git 소개
 		</title>
 	</head>
