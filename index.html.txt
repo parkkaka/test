@@ -23,6 +23,7 @@
 			<li>sync</li>
 			<li>push.git</li>
 			<li>pull.복제</li>
+			<li>conflit.복제</li>
 	
 
 
