@@ -1,0 +1,9 @@
+diff a/index.html.txt b/index.html.txt	(rejected hunks)
+@@ -2,3 +3,6 @@
+++<<<<<<< HEAD
+ +<html>
+ +	<body></body>
+- </html>
+++</html>
+++=======
+++>>>>>>> parent of 8b6e8cb (html 태그 추가)
