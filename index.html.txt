@@ -26,7 +26,7 @@
 			<li>pull.복제</li>
 			<li>conflict.git.복제</li>
 			<li>외부도구 마스터</li>
-			
+			<li>스태시</li>
 	
 
 
